@@ -6,8 +6,8 @@
   align-items: center;
 }
 .Header {
-  font-size: 50px;
+  font-size: 72px;
   color: yellow;
-  text-shadow: 2px 2px 5px black;
+  text-shadow: 3px 3px 5px white;
 }
 /* write your parent styles in here for your App.js */
