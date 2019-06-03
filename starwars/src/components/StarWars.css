@@ -1,0 +1,33 @@
+.character-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.character-card {
+    height: 100%;
+    width: 500px;
+    background-image: url("../card-bg.jpg");
+    background-size: cover;
+    border-radius: 10px;
+    margin: 20px;
+}
+.character-info {
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: left;
+    color: yellow;
+}
+.character-card h3 {
+    text-align: center;
+    margin: 0;
+    padding-top: 10px;
+    font-size: 32px;
+    color: yellow;
+    text-shadow: 2px 2px 5px black;
+}
+.character-info strong {
+    font-size: 18px;
+    color: white;
+}
